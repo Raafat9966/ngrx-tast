@@ -102,5 +102,7 @@
       }
     }
   },
-  "defaultProject": "ngrx-typescript"
+  "cli": {
+    "analytics": "c0c56165-6a0e-42c7-a152-649718a93ab2"
+  }
 }
